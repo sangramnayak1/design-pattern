@@ -70,6 +70,7 @@ Memento 	| Captures and externalizes an object’s internal state without violat
 <img width="1342" height="810" alt="image" src="https://github.com/user-attachments/assets/9fdeeb12-f194-4370-b3be-ed2b44efa3a7" />
 
 ## Builder Design Pattern
-<img width="1036" height="843" alt="image" src="https://github.com/user-attachments/assets/b14d9af4-251b-48ac-b6bf-ec26ad7d65eb" />
+<img width="1014" height="818" alt="image" src="https://github.com/user-attachments/assets/6c36cd33-4169-45f2-a9d7-6fd21908a870" />
+
 
 
